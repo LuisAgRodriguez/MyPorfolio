@@ -29,7 +29,7 @@ const addProjects = (data) => {
                     </p>
                     <p class="description">${project.description}</p>
                     <a href="${project.link}" target="_blank"><i class="nf nf-md-github"></i></a>
-                    <a href="" target="_blank"><i class="nf nf-md-link_box_variant"></i></a>
+                    <a href="${project.linkPage}" target="_blank"><i class="nf nf-md-link_box_variant"></i></a>
                 </div>
             </div>
     `;

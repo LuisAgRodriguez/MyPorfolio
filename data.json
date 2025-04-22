@@ -9,7 +9,7 @@
             "types-files-json": "",
             "description": "Paginas para buscar imagenes para descargar dependiendo de la categorya.",
             "link":"https://github.com/LuisAgRodriguez/MyPersonalProject/tree/main/02-ImagePage",
-            "linkPage": "https://6807e1971626024170ec8810--dashing-cassata-8d6c42.netlify.app/"
+            "linkPage": "https://imagepage-luis.netlify.app/"
         },
         {
             "image": "/Images/online-salse.png",
@@ -20,7 +20,7 @@
             "types-files-json": "nf nf-seti-json",
             "description": "Paginas para comprar productos en cualquier lugar.",
             "link":"https://github.com/LuisAgRodriguez/MyPersonalProject/tree/main/03-onlineSalse",
-            "linkPage": "https://6807e21714e4864e28c4feaf--enchanting-lollipop-ad0fb4.netlify.app/"
+            "linkPage": "https://onlinesale-luis.netlify.app/"
         },
         {
             "image": "/Images/book-page.png",
@@ -31,7 +31,7 @@
             "types-files-json": "nf nf-seti-json",
             "description": "Pagina compartes libros de diferentes tienda online, y hace anuncios de libros",
             "link":"https://github.com/LuisAgRodriguez/MyPersonalProject/tree/main/04-BookPage",
-            "linkPage": "https://6807e299a5bf595b57e0c0b4--magical-kulfi-8d5082.netlify.app/"
+            "linkPage": "https://bookpage-luis.netlify.app/"
         },
         {
             "image": "/Images/Admin-Dashboard.png",
@@ -42,7 +42,7 @@
             "types-files-json": "",
             "description": "Es un espacio designado que incluye formas para que los admins vean y gestionen usuarios, grupos, informes, bases y otros elementos.",
             "link":"https://github.com/LuisAgRodriguez/MyPersonalProject/tree/main/05-Admin-Dashboard",
-            "linkPage": "https://6807e2ff6090505ea3dcf509--mellow-syrniki-3ac84c.netlify.app/"
+            "linkPage": "https://admindashboard-luis.netlify.app/"
         }
     ]
 }

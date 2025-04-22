@@ -99,6 +99,12 @@ header .light-mode {
     animation-timing-function: cubic-bezier(0.19, 1, 0.22, 1);
 }
 
+@media (max-width: 450px) {
+    header {
+        top: 0;
+    }
+}
+
 @keyframes darkmode {
     0% {
         transform:rotate(360deg);
@@ -129,11 +135,11 @@ main {
 
 .first-section .first-section-image img {
     border-radius: 100%;
-    margin-right: 30px;
+    margin-right: 18px;
 }
 
 .first-section .first-section-image a {
-    padding: 6px 12px;
+    padding: 6px 8px;
     border-radius: 50px;
     border: 1px solid var(--color-fonts-hover);
     background: var(--background-header);
@@ -144,7 +150,7 @@ main {
 
 .first-section .first-section-image a:hover {
     border: 2px solid var(--color-fonts);
-    font-size: 1.1rem;
+    font-size: 1rem;
     color: var(--color-fonts-hover);
     transition: 400ms;
     transition-timing-function: cubic-bezier(0.19, 1, 0.22, 1);

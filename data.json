@@ -1,0 +1,44 @@
+{
+    "projects": [
+        {
+            "image": "/Images/Image-page.png",
+            "title": "Pagina de imagenes",
+            "types-files-html": "nf nf-dev-html5",
+            "types-files-css": "nf nf-dev-css3",
+            "types-files-js": "nf nf-fa-square_js",
+            "types-files-json": "",
+            "description": "Paginas para buscar imagenes para descargar dependiendo de la categorya.",
+            "link":"https://github.com/LuisAgRodriguez/MyPersonalProject/tree/main/02-ImagePage"
+        },
+        {
+            "image": "/Images/online-salse.png",
+            "title": "Pagina de ventas",
+            "types-files-html": "nf nf-dev-html5",
+            "types-files-css": "nf nf-dev-css3",
+            "types-files-js": "nf nf-fa-square_js",
+            "types-files-json": "nf nf-seti-json",
+            "description": "Paginas para comprar productos en cualquier lugar.",
+            "link":"https://github.com/LuisAgRodriguez/MyPersonalProject/tree/main/03-onlineSalse"
+        },
+        {
+            "image": "/Images/book-page.png",
+            "title": "Pagina de libros",
+            "types-files-html": "nf nf-dev-html5",
+            "types-files-css": "nf nf-dev-css3",
+            "types-files-js": "nf nf-fa-square_js",
+            "types-files-json": "nf nf-seti-json",
+            "description": "Pagina compartes libros de diferentes tienda online, y hace anuncios de libros",
+            "link":"https://github.com/LuisAgRodriguez/MyPersonalProject/tree/main/04-BookPage"
+        },
+        {
+            "image": "/Images/Admin-Dashboard.png",
+            "title": "Panel de administrador",
+            "types-files-html": "nf nf-dev-html5",
+            "types-files-css": "nf nf-dev-css3",
+            "types-files-js": "nf nf-fa-square_js",
+            "types-files-json": "",
+            "description": "Es un espacio designado que incluye formas para que los admins vean y gestionen usuarios, grupos, informes, bases y otros elementos.",
+            "link":"https://github.com/LuisAgRodriguez/MyPersonalProject/tree/main/05-Admin-Dashboard"
+        }
+    ]
+}
